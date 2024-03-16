@@ -11,17 +11,17 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center">
           <img src="https://img.shields.io/badge/C-726DD6?style=for-the-badge&logo=C&logoColor=white">
-          <img src="https://img.shields.io/badge/C++-956DD6?style=for-the-badge&logo=C&logoColor=white">
+          <img src="https://img.shields.io/badge/C++-956DD6?style=for-the-badge&logo=C++&logoColor=white">
           <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
           <img src="https://img.shields.io/badge/Python-5381ED?style=for-the-badge&logo=Python&logoColor=white">
           <img src="https://img.shields.io/badge/PyTorch-FC493D?style=for-the-badge&logo=PyTorch&logoColor=white">
-          <img src="https://img.shields.io/badge/TensorFlow-FCC33D?style=for-the-badge&logo=PyTorch&logoColor=white">
+          <img src="https://img.shields.io/badge/TensorFlow-FCC33D?style=for-the-badge&logo=TensorFlow&logoColor=white">
           <br>
-          <img src="https://img.shields.io/badge/React-63D8EB?style=for-the-badge&logo=PyTorch&logoColor=white">
-          <img src="https://img.shields.io/badge/JavaScript-E6D347?style=for-the-badge&logo=Python&logoColor=white">
-          <img src="https://img.shields.io/badge/HTML-F57425?style=for-the-badge&logo=Java&logoColor=white">
-          <img src="https://img.shields.io/badge/CSS-1B89F7?style=for-the-badge&logo=Java&logoColor=white">
-          <img src="https://img.shields.io/badge/Figma-ED79DE?style=for-the-badge&logo=PyTorch&logoColor=white">
+          <img src="https://img.shields.io/badge/React-63D8EB?style=for-the-badge&logo=React&logoColor=white">
+          <img src="https://img.shields.io/badge/JavaScript-E6D347?style=for-the-badge&logo=JavaScript&logoColor=white">
+          <img src="https://img.shields.io/badge/HTML-F57425?style=for-the-badge&logo=HTML&logoColor=white">
+          <img src="https://img.shields.io/badge/CSS-1B89F7?style=for-the-badge&logo=CSS&logoColor=white">
+          <img src="https://img.shields.io/badge/Figma-ED79DE?style=for-the-badge&logo=Figma&logoColor=white">
     </div>
 </div>
 
