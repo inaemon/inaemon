@@ -57,6 +57,11 @@
                 <th scope="column">Tech Stacks</th>
             </tr>
             <tr>
+                <td><a href="https://engineer-inaemon.tistory.com/218">정기 예금 신청 예측 모델, 머신러닝</a></td>
+                <td>대학교</td>
+                <td>Python</td>
+            </tr>
+            <tr>
                 <td><a href="https://github.com/inaemon/XR_Basic_Scene_Project">XR 가상현실 구현 기본 프로젝트</a></td>
                 <td>대학교</td>
                 <td>Unity, C#</td>
@@ -83,18 +88,23 @@
             </tr>
             <tr>
                 <td><a href="https://github.com/inaemon/client-segmentation">고객 타입 분류 및 예측 모델, 머신러닝</a></td>
-                <td>이지스퍼블리싱, BDA</td>
+                <td>이지스퍼블리싱, 7th BDA</td>
                 <td>Python</td>
             </tr>
             <tr>
                 <td><a href=""></a>사람 얼굴 이미지 생성기, 생성형 AI GAN 구현</td>
-                <td>OUTTA</td>
+                <td>1st OUTTA</td>
                 <td>PyTorch, Python</td>
             </tr>
             <tr>
                 <td><a href=""></a>배틀 티니핑 게임</td>
                 <td>대학교</td>
                 <td>Java</td>
+            </tr>
+            <tr>
+                <td><a href="https://engineer-inaemon.tistory.com/29">FPGA board - calculator, 7-segment, FSM</a></td>
+                <td>대학교</td>
+                <td>Verilog</td>
             </tr>
             <tr>
                 <td><a href="https://engineer-inaemon.tistory.com/106">제 1회 금손 어워즈 - 꿈방울 세트 픽셀 아트 제작</a></td>
