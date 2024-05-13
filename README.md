@@ -18,17 +18,36 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center">
           <img src="https://img.shields.io/badge/C-726DD6?style=for-the-badge&logo=C&logoColor=white">
-          <img src="https://img.shields.io/badge/C++-956DD6?style=for-the-badge&logo=C++&logoColor=white">
+          <img src="https://img.shields.io/badge/C++-A26BD5?style=for-the-badge&logo=C%2B%2B&logoColor=white">
+          <img src="https://img.shields.io/badge/C%23-B26BD5?style=for-the-badge&logo=Csharp&logoColor=white">
           <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
+          <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
+          <br>
           <img src="https://img.shields.io/badge/Python-5381ED?style=for-the-badge&logo=Python&logoColor=white">
           <img src="https://img.shields.io/badge/PyTorch-FC493D?style=for-the-badge&logo=PyTorch&logoColor=white">
           <img src="https://img.shields.io/badge/TensorFlow-FCC33D?style=for-the-badge&logo=TensorFlow&logoColor=white">
+          <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white">
           <br>
           <img src="https://img.shields.io/badge/React-63D8EB?style=for-the-badge&logo=React&logoColor=white">
           <img src="https://img.shields.io/badge/JavaScript-E6D347?style=for-the-badge&logo=JavaScript&logoColor=white">
           <img src="https://img.shields.io/badge/HTML-F57425?style=for-the-badge&logo=HTML&logoColor=white">
           <img src="https://img.shields.io/badge/CSS-1B89F7?style=for-the-badge&logo=CSS&logoColor=white">
+          <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+          <br>
+          <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+          <img src="https://img.shields.io/badge/Anaconda-44A833E?style=for-the-badge&logo=Anaconda&logoColor=white">
+          <br>
           <img src="https://img.shields.io/badge/Figma-ED79DE?style=for-the-badge&logo=Figma&logoColor=white">
+          <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=white">
+          <br>
+          <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white">
+          <br>
+          <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">
+          <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white">
+          <br>
+          <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+          <img src="https://img.shields.io/badge/ORACLE-F80000?style=for-the-badge&logo=oracle&logoColor=white">
     </div>
 </div>
 
